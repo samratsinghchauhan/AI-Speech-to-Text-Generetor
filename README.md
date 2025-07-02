@@ -8,9 +8,8 @@ A modern Tkinter app to convert speech to text using the Wav2Vec2 model. Support
 - ✍️ Transcribe on button click
 - 💡 Clean, modern UI with Tkinter
 - ✅ File upload confirmation
-
-## Sample audio files for testing 
-https://www.voiptroubleshooter.com/open_speech/american.html
+- 🔊 Sample audio files for testing:
+    https://www.voiptroubleshooter.com/open_speech/american.html
 
 ## 🚀 How to Run
 
